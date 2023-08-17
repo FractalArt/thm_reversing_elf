@@ -1,6 +1,6 @@
 # Reversing ELF Walkthroughs
 
-This repository contains my writeups for the eight crackmes of the `[Reversing ELF](https://tryhackme.com/room/reverselfiles)` room on TryHackMe.
+This repository contains my writeups for the eight crackmes of the [`Reversing ELF`](https://tryhackme.com/room/reverselfiles) room on TryHackMe.
 
 My goal was to familiarize myself with *assembly* language, which is why the focus of most write-ups is on this aspect. 
 
